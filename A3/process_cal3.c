@@ -1,15 +1,7 @@
 /** @file process_cal3.c
  *  @brief A pipes & filters program that uses dynamic memory allocation in C for processing iCalendar events as nodes in
  *  a linked list, and printing them in a user-friendly format.
- *  @author Brian K.
- *  @author Rob P.
- *  @author Mike Z.
- *  @author Adam N.
- *  @author Felipe R.
- *  @author Hausi M.
- *  @author Juan G.
- *  @author Saasha J.
- *  @author STUDENT_NAME
+ *  @author Paul G.
  *
  */
 
